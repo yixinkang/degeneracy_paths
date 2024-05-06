@@ -3,6 +3,9 @@
 Data path:
 home/karen.kang/LIGOSURF23/Q/paths/
 
+Check: torun.ipynb for example usage
+
+
 ## 2D/{mass}/{mass}_{idx}.pkl
 
 mass = ['lowmass', ’90','270']
