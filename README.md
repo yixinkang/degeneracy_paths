@@ -15,7 +15,5 @@ mass = ['lowmass', ’90','270']
 
 If you are interested in running the mapping at reference injections of your interest, here are the settings I used. 
 In general, you would want 500+ points after rejection sampling. 
-	30	90	270
-2D	SNR = 3-4	SNR = 8-15	Cannot map
-3D	SNR = 8-9	SNR = 20-25	SNR = 20-25
-5D	Cannot map	SNR = 20-25	SNR = 22.5
+
+<img width="678" alt="image" src="https://github.com/yixinkang/degeneracy_paths/assets/112017703/cd2dec40-cb7c-4b38-8f64-aabb9af8b557">
